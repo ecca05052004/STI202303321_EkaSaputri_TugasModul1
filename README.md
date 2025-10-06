@@ -1,20 +1,30 @@
-<<<<<<< HEAD
 # belajarflutter
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 # STI202303321_EkaSaputri_TugasModul1
->>>>>>> 867fbf2e4296fde8800a7d23aeb3aff3770a608f
+
+## 📱 Hasil Tampilan Program
+
+Berikut hasil tampilan program Flutter yang telah dijalankan:
+
+![Tampilan Hasil Aplikasi](screenshots/hasil1.png)
+
+---
+
+## 📋 Deskripsi Singkat
+
+Aplikasi Flutter ini merupakan latihan dasar yang mencakup:
+- Widget `Column` dan `Row`
+- Form input menggunakan `TextFormField`
+- Pemisahan widget menjadi fungsi
+- Penerapan `StatelessWidget` dan `StatefulWidget`
+
+---
+
+## 🧑‍💻 Cara Menjalankan
+
+1. Pastikan Flutter SDK sudah terinstal  
+2. Jalankan perintah:
+   ```bash
+   flutter pub get
+   flutter run
+
+
