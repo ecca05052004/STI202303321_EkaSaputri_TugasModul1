@@ -3,11 +3,14 @@
 
 ## 📱 Hasil Tampilan Program
 
-Berikut hasil tampilan program Flutter yang telah dijalankan:
+<p align="center">
+  <img src="hasil (1).png" alt="Hasil Tampilan 1" width="350"/>
+</p>
 
-![Tampilan Hasil Aplikasi](screenshots/hasil1.png)
+<p align="center">
+  <img src="hasil (2).png" alt="Hasil Tampilan 2" width="350"/>
+</p>
 
----
 
 ## 📋 Deskripsi Singkat
 
